@@ -16,7 +16,7 @@ html,body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #0F34B4;
+    background-color: #099af4;
 }
 #page>img{
     position: absolute;
@@ -30,7 +30,7 @@ html,body{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
-    color: #96FFCA;
+    color:  #d5e7f3;
     font-size: 350px;
 }
 #nav{
@@ -68,7 +68,7 @@ html,body{
     flex-direction: column;
     height: 100vh;
     width: 100vw;
-    background-color: #0F34B4;
+    background-color: #0574b9;
     text-align: center;
 }
 #page1>h6{
@@ -106,7 +106,7 @@ html,body{
     position: relative;
     height: 100vh;
     width: 100vw;
-    background-color: #0F34B4;
+    background-color:  #04578b;
 }
 #page2>#image1{
     height: 90%;
